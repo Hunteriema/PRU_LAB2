@@ -1,0 +1,481 @@
+fileFormatVersion: 2
+guid: 05515a6527b3d3742b650f1fc563ce91
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8445614956812453875
+    second: pngtree-slow-down-concept-reducing-photo-png-image_13681044_0
+  - first:
+      213: 9170639640553048551
+    second: pngtree-slow-down-concept-reducing-photo-png-image_13681044_1
+  - first:
+      213: -2512761776677513694
+    second: pngtree-slow-down-concept-reducing-photo-png-image_13681044_2
+  - first:
+      213: 6697244862213145172
+    second: pngtree-slow-down-concept-reducing-photo-png-image_13681044_3
+  - first:
+      213: 2075763422921282637
+    second: pngtree-slow-down-concept-reducing-photo-png-image_13681044_4
+  - first:
+      213: 4166941474587038905
+    second: pngtree-slow-down-concept-reducing-photo-png-image_13681044_5
+  - first:
+      213: 9171409352293903586
+    second: pngtree-slow-down-concept-reducing-photo-png-image_13681044_6
+  - first:
+      213: 4172759487763662855
+    second: pngtree-slow-down-concept-reducing-photo-png-image_13681044_7
+  - first:
+      213: -749659780115645080
+    second: pngtree-slow-down-concept-reducing-photo-png-image_13681044_8
+  - first:
+      213: 3355706819573689123
+    second: pngtree-slow-down-concept-reducing-photo-png-image_13681044_9
+  - first:
+      213: 1051142020094257358
+    second: pngtree-slow-down-concept-reducing-photo-png-image_13681044_10
+  - first:
+      213: 3394635789146423204
+    second: pngtree-slow-down-concept-reducing-photo-png-image_13681044_11
+  - first:
+      213: 2754637699960303080
+    second: pngtree-slow-down-concept-reducing-photo-png-image_13681044_12
+  - first:
+      213: -4817521502059603114
+    second: pngtree-slow-down-concept-reducing-photo-png-image_13681044_13
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: pngtree-slow-down-concept-reducing-photo-png-image_13681044_0
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 0
+        width: 2384
+        height: 2928
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d08b77d81f52bca80800000000000000
+      internalID: -8445614956812453875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-slow-down-concept-reducing-photo-png-image_13681044_1
+      rect:
+        serializedVersion: 2
+        x: 2410
+        y: 2832
+        width: 90
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e9c74a3a28a44f70800000000000000
+      internalID: 9170639640553048551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-slow-down-concept-reducing-photo-png-image_13681044_2
+      rect:
+        serializedVersion: 2
+        x: 2473
+        y: 2404
+        width: 27
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22615ff2a70e02dd0800000000000000
+      internalID: -2512761776677513694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-slow-down-concept-reducing-photo-png-image_13681044_3
+      rect:
+        serializedVersion: 2
+        x: 2410
+        y: 2231
+        width: 90
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 452460af7b461fc50800000000000000
+      internalID: 6697244862213145172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-slow-down-concept-reducing-photo-png-image_13681044_4
+      rect:
+        serializedVersion: 2
+        x: 2473
+        y: 1803
+        width: 27
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d44d8f4d5d79ecc10800000000000000
+      internalID: 2075763422921282637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-slow-down-concept-reducing-photo-png-image_13681044_5
+      rect:
+        serializedVersion: 2
+        x: 2410
+        y: 1630
+        width: 90
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b45a989133f3d930800000000000000
+      internalID: 4166941474587038905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-slow-down-concept-reducing-photo-png-image_13681044_6
+      rect:
+        serializedVersion: 2
+        x: 2473
+        y: 1202
+        width: 27
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ec6c25b634674f70800000000000000
+      internalID: 9171409352293903586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-slow-down-concept-reducing-photo-png-image_13681044_7
+      rect:
+        serializedVersion: 2
+        x: 2410
+        y: 1029
+        width: 90
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7084b4955ae98e930800000000000000
+      internalID: 4172759487763662855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-slow-down-concept-reducing-photo-png-image_13681044_8
+      rect:
+        serializedVersion: 2
+        x: 2473
+        y: 601
+        width: 27
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86d3fcfd66ca895f0800000000000000
+      internalID: -749659780115645080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-slow-down-concept-reducing-photo-png-image_13681044_9
+      rect:
+        serializedVersion: 2
+        x: 2410
+        y: 428
+        width: 90
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32bab07b29dd19e20800000000000000
+      internalID: 3355706819573689123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-slow-down-concept-reducing-photo-png-image_13681044_10
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 0
+        width: 206
+        height: 199
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec8643c1918669e00800000000000000
+      internalID: 1051142020094257358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-slow-down-concept-reducing-photo-png-image_13681044_11
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 0
+        width: 42
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4af76e1c34b2c1f20800000000000000
+      internalID: 3394635789146423204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-slow-down-concept-reducing-photo-png-image_13681044_12
+      rect:
+        serializedVersion: 2
+        x: 933
+        y: 0
+        width: 206
+        height: 199
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ed6807b4607a3620800000000000000
+      internalID: 2754637699960303080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-slow-down-concept-reducing-photo-png-image_13681044_13
+      rect:
+        serializedVersion: 2
+        x: 2473
+        y: 0
+        width: 27
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65b5eebd7b9b42db0800000000000000
+      internalID: -4817521502059603114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      pngtree-slow-down-concept-reducing-photo-png-image_13681044_0: -8445614956812453875
+      pngtree-slow-down-concept-reducing-photo-png-image_13681044_1: 9170639640553048551
+      pngtree-slow-down-concept-reducing-photo-png-image_13681044_10: 1051142020094257358
+      pngtree-slow-down-concept-reducing-photo-png-image_13681044_11: 3394635789146423204
+      pngtree-slow-down-concept-reducing-photo-png-image_13681044_12: 2754637699960303080
+      pngtree-slow-down-concept-reducing-photo-png-image_13681044_13: -4817521502059603114
+      pngtree-slow-down-concept-reducing-photo-png-image_13681044_2: -2512761776677513694
+      pngtree-slow-down-concept-reducing-photo-png-image_13681044_3: 6697244862213145172
+      pngtree-slow-down-concept-reducing-photo-png-image_13681044_4: 2075763422921282637
+      pngtree-slow-down-concept-reducing-photo-png-image_13681044_5: 4166941474587038905
+      pngtree-slow-down-concept-reducing-photo-png-image_13681044_6: 9171409352293903586
+      pngtree-slow-down-concept-reducing-photo-png-image_13681044_7: 4172759487763662855
+      pngtree-slow-down-concept-reducing-photo-png-image_13681044_8: -749659780115645080
+      pngtree-slow-down-concept-reducing-photo-png-image_13681044_9: 3355706819573689123
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
